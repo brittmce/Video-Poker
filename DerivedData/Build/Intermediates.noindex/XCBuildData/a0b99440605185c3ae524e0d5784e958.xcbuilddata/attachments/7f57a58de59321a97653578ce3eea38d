@@ -1,0 +1,129 @@
+{
+  "" : {
+    "diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Video Poker-primary.dia",
+    "emit-module-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Video Poker-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Video Poker-primary-emit-module.dia",
+    "pch" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Video Poker-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Video Poker-primary.swiftdeps"
+  },
+  "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/britt/Documents/Programming/Video Poker/Video Poker/Video Poker/Card.swift" : {
+    "const-values" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Card.swiftconstvalues",
+    "dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Card.d",
+    "diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Card.dia",
+    "index-unit-output-path" : "/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Card.o",
+    "llvm-bc" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Card.bc",
+    "object" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Card.o",
+    "swift-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Card.swiftdeps",
+    "swiftmodule" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Card~partial.swiftmodule"
+  },
+  "/Users/britt/Documents/Programming/Video Poker/Video Poker/Video Poker/CardView.swift" : {
+    "const-values" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/CardView.swiftconstvalues",
+    "dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/CardView.d",
+    "diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/CardView.dia",
+    "index-unit-output-path" : "/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/CardView.o",
+    "llvm-bc" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/CardView.bc",
+    "object" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/CardView.o",
+    "swift-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/CardView.swiftdeps",
+    "swiftmodule" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/CardView~partial.swiftmodule"
+  },
+  "/Users/britt/Documents/Programming/Video Poker/Video Poker/Video Poker/ContentView.swift" : {
+    "const-values" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/britt/Documents/Programming/Video Poker/Video Poker/Video Poker/Deck.swift" : {
+    "const-values" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Deck.swiftconstvalues",
+    "dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Deck.d",
+    "diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Deck.dia",
+    "index-unit-output-path" : "/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Deck.o",
+    "llvm-bc" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Deck.bc",
+    "object" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Deck.o",
+    "swift-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Deck.swiftdeps",
+    "swiftmodule" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Deck~partial.swiftmodule"
+  },
+  "/Users/britt/Documents/Programming/Video Poker/Video Poker/Video Poker/ExpectedValueCalculator.swift" : {
+    "const-values" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ExpectedValueCalculator.swiftconstvalues",
+    "dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ExpectedValueCalculator.d",
+    "diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ExpectedValueCalculator.dia",
+    "index-unit-output-path" : "/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ExpectedValueCalculator.o",
+    "llvm-bc" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ExpectedValueCalculator.bc",
+    "object" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ExpectedValueCalculator.o",
+    "swift-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ExpectedValueCalculator.swiftdeps",
+    "swiftmodule" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/ExpectedValueCalculator~partial.swiftmodule"
+  },
+  "/Users/britt/Documents/Programming/Video Poker/Video Poker/Video Poker/GameManager.swift" : {
+    "const-values" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameManager.swiftconstvalues",
+    "dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameManager.d",
+    "diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameManager.dia",
+    "index-unit-output-path" : "/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameManager.o",
+    "llvm-bc" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameManager.bc",
+    "object" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameManager.o",
+    "swift-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameManager.swiftdeps",
+    "swiftmodule" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameManager~partial.swiftmodule"
+  },
+  "/Users/britt/Documents/Programming/Video Poker/Video Poker/Video Poker/GameState.swift" : {
+    "const-values" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameState.swiftconstvalues",
+    "dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameState.d",
+    "diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameState.dia",
+    "index-unit-output-path" : "/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameState.o",
+    "llvm-bc" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameState.bc",
+    "object" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameState.o",
+    "swift-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameState.swiftdeps",
+    "swiftmodule" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameState~partial.swiftmodule"
+  },
+  "/Users/britt/Documents/Programming/Video Poker/Video Poker/Video Poker/GameView.swift" : {
+    "const-values" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameView.swiftconstvalues",
+    "dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameView.d",
+    "diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameView.dia",
+    "index-unit-output-path" : "/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameView.o",
+    "llvm-bc" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameView.bc",
+    "object" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameView.o",
+    "swift-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameView.swiftdeps",
+    "swiftmodule" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/GameView~partial.swiftmodule"
+  },
+  "/Users/britt/Documents/Programming/Video Poker/Video Poker/Video Poker/Hand.swift" : {
+    "const-values" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Hand.swiftconstvalues",
+    "dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Hand.d",
+    "diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Hand.dia",
+    "index-unit-output-path" : "/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Hand.o",
+    "llvm-bc" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Hand.bc",
+    "object" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Hand.o",
+    "swift-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Hand.swiftdeps",
+    "swiftmodule" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Hand~partial.swiftmodule"
+  },
+  "/Users/britt/Documents/Programming/Video Poker/Video Poker/Video Poker/PlayerStatistics.swift" : {
+    "const-values" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/PlayerStatistics.swiftconstvalues",
+    "dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/PlayerStatistics.d",
+    "diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/PlayerStatistics.dia",
+    "index-unit-output-path" : "/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/PlayerStatistics.o",
+    "llvm-bc" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/PlayerStatistics.bc",
+    "object" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/PlayerStatistics.o",
+    "swift-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/PlayerStatistics.swiftdeps",
+    "swiftmodule" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/PlayerStatistics~partial.swiftmodule"
+  },
+  "/Users/britt/Documents/Programming/Video Poker/Video Poker/Video Poker/Video_PokerApp.swift" : {
+    "const-values" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Video_PokerApp.swiftconstvalues",
+    "dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Video_PokerApp.d",
+    "diagnostics" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Video_PokerApp.dia",
+    "index-unit-output-path" : "/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Video_PokerApp.o",
+    "llvm-bc" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Video_PokerApp.bc",
+    "object" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Video_PokerApp.o",
+    "swift-dependencies" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Video_PokerApp.swiftdeps",
+    "swiftmodule" : "/Users/britt/Documents/Programming/Video Poker/Video Poker/DerivedData/Build/Intermediates.noindex/Video Poker.build/Debug-iphoneos/Video Poker.build/Objects-normal/arm64/Video_PokerApp~partial.swiftmodule"
+  }
+}
